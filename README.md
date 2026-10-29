@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner (wave bergerak, hitam - abu - putih) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" alt="Svxd banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" alt="svxd banner" />
 
 <!-- Typing animation -->
-<a href="https://github.com/slcxlt">
+<a href="https://github.com/slxclt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=600&height=50&lines=while(alive)+%7B+code()%3B+%7D;svxd+was+here;Crafting+Interactive+Web+Apps" alt="Typing SVG" />
 </a>
 
@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <a href="https://discord.com/users/985919878286409858"><img src="https://img.shields.io/badge/Discord-Contact_Me-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/slcxlt"><img src="https://img.shields.io/badge/GitHub-slcxlt-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/slxclt"><img src="https://img.shields.io/badge/GitHub-slcxlt-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Status-Building_Portfolio-4b5563?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
 
 </div>
@@ -54,10 +54,10 @@
 <div align="center">
 
 <!-- Summary cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slcxlt&theme=github_dark" alt="Profile details" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slcxlt&theme=github_dark" alt="Repos per language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slcxlt&theme=github_dark" alt="Most commit language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slcxlt&theme=github_dark" alt="GitHub stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slxclt&theme=github_dark" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slxclt&theme=github_dark" alt="Repos per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slxclt&theme=github_dark" alt="Most commit language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slxclt&theme=github_dark" alt="GitHub stats" width="49%" />
 
 <br><br>
 
@@ -73,7 +73,7 @@
 <div align="center">
 
 <!-- Butuh workflow di .github/workflows/snake.yml dan repo bernama sama dengan username (slcxlt/slcxlt) -->
-<img src="https://raw.githubusercontent.com/slcxlt/slcxlt/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/slxclt/slxclt/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=slcxlt&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=slxclt&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 </div>
 
