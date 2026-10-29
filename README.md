@@ -1,22 +1,19 @@
 <div align="center">
 
-<!-- ============================================================
-  GANTI "YOUR_USERNAME" dengan username GitHub kamu
-  (Cari & replace di seluruh file ini, ada di bagian Analytics)
-============================================================= -->
-
 <!-- Header Banner (wave bergerak, hitam - abu - putih) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" alt="Svxd banner" />
 
 <!-- Typing animation -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/slcxlt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=600&height=50&lines=while(alive)+%7B+code()%3B+%7D;svxd+was+here;Crafting+Interactive+Web+Apps" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=slcxlt&label=PROFILE+VIEWS&color=4b5563&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/slcxlt?label=FOLLOWERS&style=for-the-badge&color=4b5563&labelColor=000000" alt="Followers" />
+<!-- Social badges -->
+<a href="https://discord.com/users/985919878286409858"><img src="https://img.shields.io/badge/Discord-Contact_Me-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/slcxlt"><img src="https://img.shields.io/badge/GitHub-slcxlt-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://img.shields.io/badge/Status-Building_Portfolio-4b5563?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
 
 </div>
 
@@ -28,7 +25,7 @@
 - 💻 Frontend Developer
 - 🌱 Currently learning: TKA
 - 🔨 Currently building: Portofolio
-- 📫 Reach me: https://discord.com/users/985919878286409858
+- 📫 Reach me: [Discord](https://discord.com/users/985919878286409858)
 
 ---
 
@@ -56,19 +53,37 @@
 
 <div align="center">
 
-<!-- Stats & Top Languages -->
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slcxlt&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db&ring_color=ffffff" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slcxlt&layout=compact&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
+<!-- Summary cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slcxlt&theme=github_dark" alt="Profile details" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slcxlt&theme=github_dark" alt="Repos per language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slcxlt&theme=github_dark" alt="Most commit language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slcxlt&theme=github_dark" alt="GitHub stats" width="49%" />
 
-<br>
+<br><br>
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=slxclt&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=slcxlt&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
 
-<br>
+</div>
 
-<!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=slcxlt&bg_color=0a0a0a&color=d1d5db&line=ffffff&point=ffffff&area=true&area_color=6b7280&hide_border=true&radius=12&title_color=ffffff" alt="Contribution graph" width="100%" />
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Butuh workflow di .github/workflows/snake.yml dan repo bernama sama dengan username (slcxlt/slcxlt) -->
+<img src="https://raw.githubusercontent.com/slcxlt/slcxlt/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=slcxlt&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 </div>
 
@@ -77,6 +92,6 @@
 <div align="center">
 
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer" width="100%" alt="Footer" />
 
 </div>
