@@ -12,7 +12,7 @@
 
 <!-- Social badges -->
 <a href="https://discord.com/users/985919878286409858"><img src="https://img.shields.io/badge/Discord-Contact_Me-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/slxclt"><img src="https://img.shields.io/badge/GitHub-slcxlt-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/slxclt"><img src="https://img.shields.io/badge/GitHub-slxclt-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/Status-Building_Portfolio-4b5563?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Status" />
 
 </div>
@@ -51,18 +51,19 @@
 
 ## 📊 GitHub Analytics
 
+<!-- Semua gambar di bawah dibuat otomatis oleh .github/workflows/profile.yml (folder assets/) -->
 <div align="center">
 
-<!-- Summary cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slxclt&theme=github_dark" alt="Profile details" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slxclt&theme=github_dark" alt="Repos per language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=slxclt&theme=github_dark" alt="Most commit language" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slxclt&theme=github_dark" alt="GitHub stats" width="49%" />
+<img src="./assets/overview.svg" alt="GitHub overview" width="49%" />
+<img src="./assets/languages.svg" alt="Top languages" width="49%" />
 
-<br><br>
+<br>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=slxclt&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
+<img src="./assets/streak.svg" alt="Contribution streak" width="100%" />
+
+<br>
+
+<img src="./assets/activity.svg" alt="Contribution activity" width="100%" />
 
 </div>
 
@@ -72,18 +73,17 @@
 
 <div align="center">
 
-<!-- Butuh workflow di .github/workflows/snake.yml dan repo bernama sama dengan username (slcxlt/slcxlt) -->
-<img src="https://raw.githubusercontent.com/slxclt/slxclt/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
+<img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=slxclt&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="./assets/trophies.svg" alt="Achievements" width="100%" />
 
 </div>
 
