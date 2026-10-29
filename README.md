@@ -49,47 +49,41 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<!-- Semua gambar di bawah dibuat otomatis oleh .github/workflows/profile.yml (folder assets/) -->
-<div align="center">
-
-<img src="./assets/overview.svg" alt="GitHub overview" width="49%" />
-<img src="./assets/languages.svg" alt="Top languages" width="49%" />
-
-<br>
-
-<img src="./assets/streak.svg" alt="Contribution streak" width="100%" />
-
-<br>
-
-<img src="./assets/activity.svg" alt="Contribution activity" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Rayhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ---
 
-## 🐍 Contribution Snake
+### About Me
 
-<div align="center">
+I like *Backend Programming* and *Cyber Security, and I'm currently learning **DevOps*.
+Outside of that, I enjoy learning math — there's something satisfying about solving number problems, it's just fun.
 
-<img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="./assets/trophies.svg" alt="Achievements" width="100%" />
-
-</div>
+<p align="center">
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="450"/>
+</p>
 
 ---
 
-<div align="center">
+### Skill
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,ts,go,linux,docker,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chilhan23&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chilhan23&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Chilhan23&theme=tokyonight" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3&width=1000" width="100%"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
 
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer" width="100%" alt="Footer" />
