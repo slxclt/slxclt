@@ -49,8 +49,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20There,%20I'm%20Rayhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
 ---
 
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
