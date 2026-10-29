@@ -57,18 +57,18 @@
 <div align="center">
 
 <!-- Stats & Top Languages -->
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db&ring_color=ffffff" alt="GitHub stats" />
-<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=slcxlt&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db&ring_color=ffffff" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=slcxlt&layout=compact&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
 
 <br>
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=slxclt&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
 
 <br>
 
 <!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0a0a0a&color=d1d5db&line=ffffff&point=ffffff&area=true&area_color=6b7280&hide_border=true&radius=12&title_color=ffffff" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=slcxlt&bg_color=0a0a0a&color=d1d5db&line=ffffff&point=ffffff&area=true&area_color=6b7280&hide_border=true&radius=12&title_color=ffffff" alt="Contribution graph" width="100%" />
 
 </div>
 
