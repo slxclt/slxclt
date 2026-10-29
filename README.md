@@ -16,7 +16,7 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=slcxlt&label=PROFILE+VIEWS&color=4b5563&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=4b5563&labelColor=000000" alt="Followers" />
+<img src="https://img.shields.io/github/followers/slcxlt?label=FOLLOWERS&style=for-the-badge&color=4b5563&labelColor=000000" alt="Followers" />
 
 </div>
 
