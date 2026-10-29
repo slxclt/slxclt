@@ -49,8 +49,6 @@
 
 ---
 
----
-
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer" width="100%" alt="Footer" />
 
