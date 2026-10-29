@@ -1,25 +1,34 @@
 <div align="center">
 
-<!-- Header Banner dengan Efek Wave & Cyan Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:0284c7&height=220&section=header&text=Qannn&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer%20%7C%20SMK%20Negeri%205%20Telkom&descAlignY=65&descSize=18&descColor=38bdf8&animation=fadeIn" />
+<!-- ============================================================
+  GANTI "YOUR_USERNAME" dengan username GitHub kamu
+  (Cari & replace di seluruh file ini, ada di bagian Analytics)
+============================================================= -->
 
----
+<!-- Header Banner (wave bergerak, hitam - abu - putih) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" />
 
-<!-- GIF Screen Coding -->
-<img src="https://raw.githubusercontent.com/gist/assets/3848914/programmer.gif" width="380" alt="Coding Animation" />
-
-<!-- Greeting dengan Terminal Coding Animation -->
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%F0%9F%90%9B+while(alive)+%7B+code();+%7D;%F0%9F%91%8B+Hey+there!+I'm+Qannn;%E2%9A%A1+Crafting+Interactive+Web+Apps;" />
-</h3>
-
-##### Passionate about crafting modern, interactive, and functional web experiences.
+<!-- Typing animation -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=600&height=50&lines=while(alive)+%7B+code()%3B+%7D;svxd+was+here;Crafting+Interactive+Web+Apps" alt="Typing SVG" />
+</a>
 
 <br>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;Laravel+%26+PHP+Enthusiast+%E2%9A%A1;CodeIgniter+%F0%9F%94%A5;Always+learning%2C+always+building+%F0%9F%9A%80)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=4b5563&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=4b5563&labelColor=000000" alt="Followers" />
 
 </div>
+
+---
+
+## 👋 About Me
+
+<!-- Edit bagian ini sesuka kamu -->
+- 💻 Frontend Developer
+- 🌱 Currently learning: _isi sendiri_
+- 🔨 Currently building: _isi sendiri_
+- 📫 Reach me: _isi sendiri_
 
 ---
 
@@ -27,18 +36,17 @@
 
 <div align="center">
 
-<!-- Tech Stack dengan tema skillicons (seperti Environment & Tools) -->
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,mysql,go&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,electron,mysql,git&theme=dark&perline=8" alt="Tech stack" />
 
 </div>
 
 ---
 
-## 💻 Environment & Tools
+## 🧰 Environment & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=windows,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
 
 </div>
 
@@ -48,26 +56,27 @@
 
 <div align="center">
 
-<!-- GitHub Stats - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&count_private=true&border_radius=12&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0891b2&text_color=ffffff&rank_icon_color=0284c7" />
+<!-- Stats & Top Languages -->
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&icon_color=9ca3af&text_color=d1d5db&ring_color=ffffff" alt="GitHub stats" />
+<img height="190" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&border_radius=12&bg_color=0a0a0a&title_color=ffffff&text_color=d1d5db" alt="Top languages" />
 
-<!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
+<br>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&border_radius=12&background=0a0a0a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=9ca3af&dates=6b7280&stroke=374151" alt="GitHub streak" />
+
+<br>
+
+<!-- Contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0a0a0a&color=d1d5db&line=ffffff&point=ffffff&area=true&area_color=6b7280&hide_border=true&radius=12&title_color=ffffff" alt="Contribution graph" width="100%" />
 
 </div>
 
 ---
 
-<!-- Footer Section Interaktif -->
 <div align="center">
 
-<br>
-
-<!-- Random Developer Quote Card (PAKAI WARNA MANUAL DARK) -->
-<img src="https://readme-daily-quotes.vercel.app/api?card_width=500&bg_color=0f172a&text_color=ffffff&author_color=38bdf8" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0891b2,100:0f172a&height=120&section=footer" />
+<!-- Footer Banner (wave bergerak, warna sama dengan header) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer&reversal=false" width="100%" />
 
 </div>
