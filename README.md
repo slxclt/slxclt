@@ -15,7 +15,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=4b5563&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=slcxlt&label=PROFILE+VIEWS&color=4b5563&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=4b5563&labelColor=000000" alt="Followers" />
 
 </div>
@@ -26,9 +26,9 @@
 
 <!-- Edit bagian ini sesuka kamu -->
 - 💻 Frontend Developer
-- 🌱 Currently learning: _isi sendiri_
-- 🔨 Currently building: _isi sendiri_
-- 📫 Reach me: _isi sendiri_
+- 🌱 Currently learning: TKA
+- 🔨 Currently building: Portofolio
+- 📫 Reach me: https://discord.com/users/985919878286409858
 
 ---
 
