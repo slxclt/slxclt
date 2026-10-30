@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Header Banner (wave bergerak, hitam - abu - putih) -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b5563,100:e5e7eb&height=260&section=header&text=Svxd&fontSize=90&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descSize=22&descColor=d1d5db&animation=fadeIn" width="100%" alt="svxd banner" />
 
 <!-- Typing animation -->
@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-<!-- Edit bagian ini sesuka kamu -->
+
 - 💻 Frontend Developer
 - 🌱 Currently learning: TKA
 - 🔨 Currently building: Portofolio
@@ -43,20 +43,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,figma&theme=dark&perline=5" alt="Tools" />
 
 </div>
 
 ---
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<!-- GitHub Stats - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&count_private=true&border_radius=12&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0891b2&text_color=ffffff&rank_icon_color=0284c7" />
-
-<!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
 
 </div>
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
