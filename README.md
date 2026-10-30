@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,fedora,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=windows,linuxfedora,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
 
 </div>
 
