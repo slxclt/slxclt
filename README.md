@@ -43,12 +43,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=windows,linux,vscode,github,figma&theme=dark&perline=4" alt="Tools" />
 
 </div>
 
 ---
+## 📊 GitHub Analytics
 
+<div align="center">
+
+<!-- GitHub Stats - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qannn0607&show_icons=true&count_private=true&border_radius=12&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0891b2&text_color=ffffff&rank_icon_color=0284c7" />
+
+<!-- Top Langs - PAKE FORK STABIL DENGAN WARNA MANUAL (DARK) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qannn0607&layout=compact&hide_border=true&border_radius=12&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" />
+
+</div>
 <!-- Footer Banner (wave bergerak, warna sama dengan header) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e5e7eb,50:4b5563,100:000000&height=140&section=footer" width="100%" alt="Footer" />
 
